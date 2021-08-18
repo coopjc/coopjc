@@ -1,6 +1,6 @@
 ### Hey, I'm Cooper! 👋
 
-I'm a 16 year-old self-taught software developer.
+I'm a 17 year-old self-taught software developer.
 
 ## ⭐️ Present
 
