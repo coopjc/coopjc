@@ -8,7 +8,7 @@ I'm currently doing a remote software development internship. I'm learning a lot
 
 ## 📚 Experience
 
-I am capable of full-stack development, but I highly enjoy the world of backend development in Node and Golang. I also plan to venture into Elixir and Rust soon.
+I am capable of full-stack development, but I really enjoy the world of backend development in Node and Golang. I also plan on moving into Rust, Kotlin, or Elixir eventually.
 
 ## 📫 Contact
 
